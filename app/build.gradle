@@ -27,7 +27,7 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.2.1'
 //    compile 'javax.mail:mail:1.4.7'
-    compile files('activation.jar')
-    compile files('additionnal.jar')
-    compile files('mail.jar')
+ //   compile files('activation.jar')
+  //  compile files('additionnal.jar')
+ //   compile files('mail.jar')
 }
