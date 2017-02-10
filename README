@@ -1,1 +1,6 @@
 来分享一个自己用了好久的app，把收到的短信自动转发到邮箱，微信也能接收QQ邮箱的消息
+gradlew
+gradlew clean
+gradlew build -x test
+
+app/build/outputs/apk 目录下会看到类似于app-debug-unaligned.apk, app-release-unsigned.apk等
